@@ -1,0 +1,12 @@
+[book]
+title = "AkiACG 路由交换技术文档"
+author = "秋月站长"
+description = "一份站长的路由交换学习心得。"
+language = "zh-CN"
+src = "src"
+dest = "book"
+
+[output.html]
+theme = "auto"
+git-repository-url = "https://github.com/Haisairova-Official/AkiACG-Network/"
+edit-url-template = "https://github.com/Haisairova-Official/AkiACG-Network/edit/main/{path}"
