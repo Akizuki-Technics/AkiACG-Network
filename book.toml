@@ -7,6 +7,5 @@ src = "src"
 dest = "book"
 
 [output.html]
-theme = "auto"
 git-repository-url = "https://github.com/Haisairova-Official/AkiACG-Network/"
 edit-url-template = "https://github.com/Haisairova-Official/AkiACG-Network/edit/main/{path}"
