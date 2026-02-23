@@ -1,5 +1,6 @@
 - [写在前头](README.md)
 - [核心操作&命令](Core.md)
+  - [Console](Console.md)
   - [全局模式](conf.md)
   - [生成树协议](stp.md)
   - [重置与重载](reload.md)
