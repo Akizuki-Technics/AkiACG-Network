@@ -1,7 +1,6 @@
 - [写在前头](README.md)
 - [核心操作&命令](Core.md)
   - [Console](Console.md)
-  - [全局模式](conf.md)
   - [端口配置基础](Port.md)
   - [VLAN配置基础](VLAN.md)
   - [NAT配置](NAT.md)
