@@ -14,7 +14,7 @@
   - [三层交换器开启路由转发](ipRouting.md)
   - [设置DHCP](DHCP.md)
   - [生成树协议](stp.md)
-  - [重置与重载](reload.md)
+  - [重置与重载](reset.md)
   - [动态路由](Routing.md)
   - [OSPF](OSPF.md)
   - [第一跳冗余协议](FHRP.md)
