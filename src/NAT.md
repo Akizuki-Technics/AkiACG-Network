@@ -109,7 +109,7 @@ R-Center(config)# end
 [R-Center] nat outbound 2000
 [R-Center] return
 ```
-
+> 此段代码未经本人测试，但是有以下反馈：华为只需在出接口配置 nat outbound [ACL] 即可，内网口保持默认。
 ### 华三 (H3C)
 ```bash
 <R-Center> system-view
