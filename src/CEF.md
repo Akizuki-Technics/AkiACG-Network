@@ -70,7 +70,7 @@ CEF是众多企业级特性的底层支撑：
 show ip cef
 
 # 查看FIB表（特定网络）
-show ip cef 192.168.1.1
+show ip cef [ip]
 
 # 查看邻接表
 show adjacency
