@@ -34,3 +34,5 @@
   - [(好像只有Cisco用)Lic管理与升级](LicMgmt.md)
   - [自行Debug](Debug.md)
 - [杂项](others.md)
+  - [功能模块](Module.md)
+  - [SFP与光口](SFP.md)
